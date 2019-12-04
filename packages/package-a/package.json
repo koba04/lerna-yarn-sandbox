@@ -1,5 +1,5 @@
 {
-  "name": "package-a",
+  "name": "@koba04/lerna-yarn-sandbox-package-a",
   "version": "1.0.0",
   "description": "this is package-a",
   "author": "Toru Kobayashi <koba0004@gmail.com>",
@@ -28,5 +28,8 @@
   },
   "dependencies": {
     "react": "^16.12.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
