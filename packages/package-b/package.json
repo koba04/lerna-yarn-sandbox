@@ -1,0 +1,29 @@
+{
+  "name": "package-b",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Toru Kobayashi <koba0004@gmail.com>",
+  "homepage": "https://github.com/koba04/lerna-yarn-sandbox#readme",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/koba04/lerna-yarn-sandbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/koba04/lerna-yarn-sandbox/issues"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  }
+}
