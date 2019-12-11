@@ -1,7 +1,7 @@
 {
   "name": "@koba04/lerna-yarn-sandbox-package-b",
-  "version": "1.1.0",
-  "description": "> TODO: description",
+  "version": "1.2.0",
+  "description": "This is lerna-yarn-sandbox-package-b",
   "author": "Toru Kobayashi <koba0004@gmail.com>",
   "homepage": "https://github.com/koba04/lerna-yarn-sandbox#readme",
   "license": "MIT",
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/koba04/lerna-yarn-sandbox.git"
@@ -23,10 +26,7 @@
   "bugs": {
     "url": "https://github.com/koba04/lerna-yarn-sandbox/issues"
   },
-  "devDependencies": {
-    "typescript": "^3.7.3"
-  },
-  "publishConfig": {
-    "access": "public"
+  "dependencies": {
+    "react": "^16.12.0"
   }
 }
