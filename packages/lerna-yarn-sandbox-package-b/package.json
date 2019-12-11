@@ -21,7 +21,7 @@
     "url": "git+ssh://git@github.com/koba04/lerna-yarn-sandbox.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "jest"
   },
   "bugs": {
     "url": "https://github.com/koba04/lerna-yarn-sandbox/issues"
