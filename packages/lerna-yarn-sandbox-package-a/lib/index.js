@@ -3,5 +3,5 @@
 module.exports = lernaYarnSandboxPackageA;
 
 function lernaYarnSandboxPackageA() {
-    // TODO
+    return 'a';
 }

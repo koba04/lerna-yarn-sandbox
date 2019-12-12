@@ -7,9 +7,11 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "examples/*"
   ],
   "scripts": {
+    "run:example": "yarn workspace lerna-yarn-example start",
     "test": "lerna run test --stream"
   },
   "devDependencies": {
