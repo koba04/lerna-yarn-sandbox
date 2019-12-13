@@ -27,6 +27,7 @@
     "url": "https://github.com/koba04/lerna-yarn-sandbox/issues"
   },
   "dependencies": {
+    "@koba04/lerna-yarn-sandbox-package-a": "^1.3.0",
     "react": "^16.12.0"
   }
 }
