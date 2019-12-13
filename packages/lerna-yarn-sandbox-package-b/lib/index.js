@@ -6,5 +6,5 @@ console.log(lernaYarnSandboxPackageA());
 module.exports = lernaYarnSandboxPackageB;
 
 function lernaYarnSandboxPackageB() {
-  return 'b' + ':' + lernaYarnSandboxPackageA();
+  return 'b' + ':' + lernaYarnSandboxPackageA() + '!';
 }
