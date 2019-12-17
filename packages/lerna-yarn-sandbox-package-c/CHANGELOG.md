@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/koba04/lerna-yarn-sandbox/compare/@koba04/lerna-yarn-sandbox-package-c@1.2.0...@koba04/lerna-yarn-sandbox-package-c@1.2.1) (2019-12-17)
+
+
+### Bug Fixes
+
+* remove !!! ([55e5ef6](https://github.com/koba04/lerna-yarn-sandbox/commit/55e5ef6b3bce9828ecf086bf66cbec828c52635c))
+
+
+
+
+
 # [1.2.0](https://github.com/koba04/lerna-yarn-sandbox/compare/@koba04/lerna-yarn-sandbox-package-c@1.1.0...@koba04/lerna-yarn-sandbox-package-c@1.2.0) (2019-12-17)
 
 
