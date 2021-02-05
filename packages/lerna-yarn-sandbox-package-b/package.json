@@ -1,6 +1,6 @@
 {
   "name": "@koba04/lerna-yarn-sandbox-package-b",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "This is lerna-yarn-sandbox-package-b",
   "author": "Toru Kobayashi <koba0004@gmail.com>",
   "homepage": "https://github.com/koba04/lerna-yarn-sandbox#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/koba04/lerna-yarn-sandbox/issues"
   },
   "dependencies": {
-    "@koba04/lerna-yarn-sandbox-package-a": "^1.4.0",
+    "@koba04/lerna-yarn-sandbox-package-a": "^1.5.0",
     "react": "^16.12.0"
   }
 }
