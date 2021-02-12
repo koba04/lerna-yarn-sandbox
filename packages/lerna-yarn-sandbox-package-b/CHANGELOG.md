@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.5.2](https://github.com/koba04/lerna-yarn-sandbox/compare/@koba04/lerna-yarn-sandbox-package-b@1.5.1...@koba04/lerna-yarn-sandbox-package-b@1.5.2) (2021-02-12)
+
+
+### Bug Fixes
+
+* add the repository.directory field in package.json ([8425482](https://github.com/koba04/lerna-yarn-sandbox/commit/84254829de1f98ab43c93883e1c678a87947049a))
+
+
+
+
+
 ## [1.5.1](https://github.com/koba04/lerna-yarn-sandbox/compare/@koba04/lerna-yarn-sandbox-package-b@1.5.0...@koba04/lerna-yarn-sandbox-package-b@1.5.1) (2021-02-05)
 
 **Note:** Version bump only for package @koba04/lerna-yarn-sandbox-package-b
