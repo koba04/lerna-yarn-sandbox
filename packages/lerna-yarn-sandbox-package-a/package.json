@@ -18,7 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/koba04/lerna-yarn-sandbox.git"
+    "url": "git+ssh://git@github.com/koba04/lerna-yarn-sandbox.git",
+    "directory": "packages/lerna-yarn-sandbox-package-a"
   },
   "scripts": {
     "test": "jest"
