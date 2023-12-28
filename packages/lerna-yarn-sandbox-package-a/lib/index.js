@@ -3,6 +3,6 @@
 module.exports = lernaYarnSandboxPackageA;
 
 function lernaYarnSandboxPackageA() {
-    // test2
+    // test22
     return 'a';
 }
