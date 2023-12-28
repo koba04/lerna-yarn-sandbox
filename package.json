@@ -16,8 +16,8 @@
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {
-    "jest": "^24.9.0",
-    "lerna": "^3.19.0",
-    "typescript": "^3.7.3"
+    "jest": "^29.7.0",
+    "lerna": "^8.0.1",
+    "typescript": "^5.3.3"
   }
 }
